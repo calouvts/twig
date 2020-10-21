@@ -1,0 +1,12 @@
+{
+    "name": "wilder/quetetwig",
+    "authors": [
+        {
+            "name": "calouvts",
+            "email": "pascalevetois@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
